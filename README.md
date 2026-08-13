@@ -54,6 +54,4 @@ Example plays of the agent after 100,300,500,700,900 episodes in the same enviro
 - after **900** episodes
   ![900 episodes](./experiments/model-900.gif)
 
-## Acknowledgement
 
-The images in the [assets](./assets/) folder are from the [Chrome-Dino-Runner](https://github.com/dhhruv/Chrome-Dino-Runner/tree/master/assets) repo.
